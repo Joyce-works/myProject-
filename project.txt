@@ -1,3 +1,4 @@
 Hello Git!
 This is a new feature
 Pull Request demo
+Line from Feature A
