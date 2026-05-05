@@ -1,4 +1,8 @@
 Hello Git!
 This is a new feature
+<<<<<<< HEAD
 Pull Request demo
 Line from Feature A
+=======
+Line from feature B
+>>>>>>> feature-B
