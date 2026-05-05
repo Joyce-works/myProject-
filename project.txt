@@ -6,3 +6,4 @@ Line from Feature A
 =======
 Line from feature B
 >>>>>>> feature-B
+Pull Request workflow practice
